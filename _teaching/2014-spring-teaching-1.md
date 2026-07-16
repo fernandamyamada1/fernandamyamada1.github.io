@@ -7,7 +7,7 @@ venue: "Federal University of ABC"
 date: 2017-05-01
 location: "Santo André, Brazil"
 ---
-Served as a teaching intern for the Object-Oriented Programming course, assisting with undergraduate coursework and supporting students in Computer Science.
+Served as a teaching intern for the Object-Oriented Programming course.
 
 Responsibilities
 ======
