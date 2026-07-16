@@ -23,7 +23,7 @@ repository               : "fernandamyamada1/fernandamyamada1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Fernanda Miyuki Yamada"
   pronouns         : "Ph.D. in Engineering"  
   bio              : "Augmented and Virtual Reality, Artificial Intelligence, Computer Graphics"
