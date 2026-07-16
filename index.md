@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/fernandamyamada1/fernandamyamada1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fernanda Miyuki Yamada is a postdoctoral researcher at The University of Electro-Communications in Tokyo. Her work focuses on generative methods for avatars and digital humans, with applications in media content creation and accessibility in virtual spaces. Her research integrates computer graphics, machine learning, and extended reality.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+fernanda.yamada@mail.uec.jp
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+#### Ph.D., Engineering
+The University of Electro-Communications, Japan
+Apr 2021 – Jun 2024
 
-1. Numbered
-2. List
+#### Research Student
+The University of Electro-Communications, Japan
+Oct 2019 – Mar 2021
 
-**Bold** and _Italic_ and `Code` text
+#### M.Sc., Computer Science
+Federal University of ABC, Brazil
+Feb 2017 – Sep 2019
 
-[Link](url) and ![Image](src)
-```
+#### Exchange Student
+The University of Electro-Communications, Japan
+Oct 2014 – Aug 2015
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### B.Sc., Computer Science
+Federal University of ABC, Brazil
+May 2011 – Dec 2016
 
-### Jekyll Themes
+#### B.Sc., Science & Technology
+Federal University of ABC, Brazil
+May 2011 – Aug 2014
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fernandamyamada1/fernandamyamada1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
