@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Fernanda Miyuki Yamada"
-  pronouns         : #"she/her"  
+  pronouns         : "Ph.D. in Engineering"  
   bio              : "Augmented and Virtual Reality, Artificial Intelligence, Computer Graphics"
   location         : "Tokyo, Japan"
   employer         : "電気通信大学・UEC"
