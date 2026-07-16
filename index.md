@@ -31,8 +31,7 @@ Fernanda Miyuki Yamada is a postdoctoral researcher at The University of Electro
 
 ## Research Areas
 • Computer Graphics        • Extended Reality
-• Artificial Intelligence  • Digital Games
-• Computer Vision          • Robotics
+• Artificial Intelligence  • Robotics     
 
 
 ## Contact
