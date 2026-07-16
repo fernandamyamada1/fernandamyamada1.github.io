@@ -1,12 +1,11 @@
+---
+title: ""
+---
+
 # Research Profile
 
 ## About Me
 Fernanda Miyuki Yamada is a postdoctoral researcher at The University of Electro-Communications in Tokyo. Her work focuses on generative methods for avatars and digital humans, with applications in media content creation and accessibility in virtual spaces. 
-
-
-## Contact
-
-✉️ fernanda.yamada@mail.uec.jp
 
 
 ## Academic Background
@@ -31,9 +30,11 @@ Fernanda Miyuki Yamada is a postdoctoral researcher at The University of Electro
 
 
 ## Research Areas
-- Computer Graphics
-- Artificial Intelligence
-- Computer Vision
-- Extended Reality
-- Digital Games
-- Robotics
+• Computer Graphics        • Extended Reality
+• Artificial Intelligence  • Digital Games
+• Computer Vision          • Robotics
+
+
+## Contact
+
+✉️ fernanda.yamada@mail.uec.jp
