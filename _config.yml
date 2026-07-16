@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Fernanda Miyuki Yamada"
-  pronouns         : "she/her"  
-  bio              : "Augmented and Virtual Reality, Artificial Intelligence, Computer graphics"
+  pronouns         : #"she/her"  
+  bio              : "Augmented and Virtual Reality, Artificial Intelligence, Computer Graphics"
   location         : "Tokyo, Japan"
-  employer         : "The University of Electro-Communications"
+  employer         : "University of Electro-Communications"
   uri              : # URL
   email            : "fernanda.yamada@mail.uec.jp" 
 
