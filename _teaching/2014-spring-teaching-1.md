@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Internship"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate teaching"
+permalink: /teaching/2017-teaching-internship
+venue: "Federal University of ABC"
+date: 2017-05-01
+location: "Santo André, Brazil"
 ---
+Served as a teaching intern for the Object-Oriented Programming course, assisting with undergraduate coursework and supporting students in Computer Science.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Responsibilities
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+- Prepared coursework and lecture materials
+- Prepared assignments and test materials
+- Supported students in every class session
+- Supervised students during exams
+- Corrected and graded tests
+- Delivered a lecture as the final assignment of the position
